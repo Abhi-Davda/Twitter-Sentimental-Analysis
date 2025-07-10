@@ -54,8 +54,8 @@ This project demonstrates the complete ML pipeline:
 4. **📈 Model Training**
    - Logistic Regression trained with 80% of the data
    - Accuracy:
-     - **Train**: ~81%
-     - **Test**: ~77.8%
+     - **Train**: ~79%
+     - **Test**: ~77%
 
 6. **📤 Prediction**
    - Predicts as **Positive** or **Negative**
