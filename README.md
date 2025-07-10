@@ -34,7 +34,6 @@ This project demonstrates the complete ML pipeline:
 - Pandas, NumPy
 - NLTK (text preprocessing)
 - Scikit-learn (Logistic Regression, TF-IDF, train-test split)
-- Pickle (model saving)
 - Google Colab
 
 ---
